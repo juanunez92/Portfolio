@@ -6,6 +6,7 @@ const AboutMe = () => {
         <div>
             <h2>Sobre Mí</h2>
             <p>¡Hola! Soy [tu nombre]. Bienvenido/a a mi portfolio...</p>
+            <p>hola 2</p>
         </div>
     );
 }

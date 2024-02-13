@@ -1,9 +1,10 @@
 // Navbar.js
 import React from 'react';
+import './Navbar.css';
 
 const Navbar = () => {
     return (
-        <nav>
+        <nav className='navbar'>
             <ul>
                 <li><a href="#about">About Me</a></li>
                 <li><a href="#contact">Contact</a></li>

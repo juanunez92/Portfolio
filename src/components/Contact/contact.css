@@ -1,0 +1,10 @@
+@font-face {
+    font-family:'AkiraFont' ;
+    src: url('/src/fonts/Akira\ Expanded\ Demo.otf') format('opentype');
+}
+
+.contact-tittle{
+    font-family: 'AkiraFont';
+    text-align: center;
+    font-size: 75px;
+}

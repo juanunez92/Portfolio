@@ -3,8 +3,57 @@
     src: url('/src/fonts/Akira\ Expanded\ Demo.otf') format('opentype');
 }
 
-.contact-tittle{
+.contact-title{
     font-family: 'AkiraFont';
     text-align: center;
     font-size: 75px;
 }
+
+.form-row {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+
+.form-group label{
+    margin-right: 150px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.form-group input{
+    display: block;
+    margin-top: 5px;
+}
+
+.form-group textarea {
+  width: 50%;
+  margin-top:40px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+  .form-group button{
+  margin-top: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 150px; 
+  height: 40px; 
+  font-size: 16px; 
+  margin: 0 auto; 
+  display: block; 
+ margin-top: 40px;
+}
+
+
+
+
+  
